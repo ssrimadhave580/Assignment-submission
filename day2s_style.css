@@ -1,0 +1,33 @@
+
+       /* p{
+            color:blue;
+        }
+        h1{
+            color:red;
+        }
+        h2{
+            color:orange;
+        }
+        .one{
+            color:green;s
+        }
+        .two{
+            background-color:aqua;
+        }
+        #p-color{
+            color:lightcoral;
+        }*/
+    body{
+        margin:0px;
+    }
+      .main{
+          height:300px;
+          width:400px;
+          background-color:red;
+          padding:50px;
+          border:10px solid black;
+          margin:25px;
+          display:inline-block;
+      }
+    
+      
